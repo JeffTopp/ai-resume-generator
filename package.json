@@ -2,7 +2,7 @@
   "name": "ai-resume-generator",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": "dependencies": {
+  "dependencies": "depen"dencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
